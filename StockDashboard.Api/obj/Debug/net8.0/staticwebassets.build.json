@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rLSbcwRSWd8jiBQm7m7mcMBIvTyw7xAiz+g1UGaNSZI=",
+  "Source": "StockDashboard.Api",
+  "BasePath": "_content/StockDashboard.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
