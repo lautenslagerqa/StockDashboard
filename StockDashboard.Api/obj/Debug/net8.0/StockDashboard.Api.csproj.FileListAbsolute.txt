@@ -37,3 +37,4 @@ C:\Users\qalau\AppData\Local\Temp\StockDashboard.Api.Verify\StockDashboard.Api.d
 C:\Users\qalau\AppData\Local\Temp\StockDashboard.Api.Verify\StockDashboard.Api.runtimeconfig.json
 C:\Users\qalau\AppData\Local\Temp\StockDashboard.Api.Verify\StockDashboard.Api.dll
 C:\Users\qalau\AppData\Local\Temp\StockDashboard.Api.Verify\StockDashboard.Api.pdb
+C:\Users\qalau\Downloads\StockDashboard\StockDashboard.Api\obj\Debug\net8.0\StockDashboard.Api.sourcelink.json

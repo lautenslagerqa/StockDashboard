@@ -7,7 +7,7 @@ document.getElementById('myForm').addEventListener('submit', async function(even
 
     try {
         const response = await fetch(
-            `http://localhost:5124/api/stocks/${encodeURIComponent(symbol)}`,
+            `http://localhost:5001/api/stocks/${encodeURIComponent(symbol)}`,
             {
                 headers: {
                     Accept: 'application/json'
