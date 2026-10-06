@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StockDashboard.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d683aea7138087cb960979058079317000724891")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c1b38b6a2e751e1d62b3425ccd76516d7a71f69")]
 [assembly: System.Reflection.AssemblyProductAttribute("StockDashboard.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StockDashboard.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
